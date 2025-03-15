@@ -8,11 +8,13 @@ The model is defined as follows:
 ![grafik](https://github.com/user-attachments/assets/646170a2-30dc-408d-86f5-9c9bf507b89b)
 
 
-
+### Autocorrelation
 
 ## Matlab Code Explanations
 
 ## References
-Jordá, O. (2005): “Estimation and Inference of Impulse Responses by Local Projections”, American Economic Review, 95, 161–182.
+Jordá, O. (2005): “<a href="https://www.aeaweb.org/articles?id=10.1257/0002828053828518" target="_blank" rel="noopener noreferrer">Estimation and Inference of Impulse Responses by Local Projections</a>”, American Economic Review, 95, 161–182.
 
-Plagborg-Møller, M. and C. K. Wolf (2021): “Local Projections and VARs Estimate the Same Impulse Responses”, Econometrica, 89, 955–980.
+Plagborg-Møller, M. and C. K. Wolf (2021): “<a href="https://onlinelibrary.wiley.com/doi/full/10.3982/ECTA17813" target="_blank" rel="noopener noreferrer">Local Projections and VARs Estimate the Same Impulse Responses</a>”, Econometrica, 89, 955–980.
+
+
